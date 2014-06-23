@@ -1,0 +1,1 @@
+Ejemplo que guarda datos en un fichero de texto en Android.
